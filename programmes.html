@@ -1,0 +1,21 @@
+---
+layout: hero
+title: Our Programmes
+page_title: Our Programmes
+---
+<div class="container">
+  <div class="row">
+    {% for programme in site.programmes %}
+    <div class="col-md-4">
+        <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="{{programme.img_path}}" alt="Card image cap">
+        <div class="card-body">
+          <h2>{{ programme.title }}</h2>
+          <p class="card-text">{{ programme.description }}</p>
+          <a a href="{{ programme.url }}" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+      </div>
+      {% endfor %}
+    </div>
+</div>

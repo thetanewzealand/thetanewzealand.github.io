@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">{{ page.page_title }}</h1>
+            </div>
+    </div>
+
+
+    <div class="container">
+
+    <div class="row spacing">
+      <div class="col-md-8 col-sm-12 left-panel">
+
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Library</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Data</li>
+          </ol>
+        </nav>
+
+        <div class="left-panel-body">
+          <h1 class="page-title">{{ page.page_title }}</h1>
+        {{ content }}
+        </div>
+        </div>
+
+
+      <div class="col-md-4 col-sm-12 right-panel">
+        <h2 class="right-border">
+          {{ page.panel_right_main_title }}
+        </h2>
+        <h3 class="right-heading">{{page.panel_right_heading1}}</h3>
+        <p class="right-text">{{ page.panel_right_text }}</p>
+
+        <h3 class="right-heading">{{page.panel_right_heading2}}</h3>
+        <p class="right-text">{{ page.panel_right_text2 }}</p>
+      </div>
+
+    </div>
+
+  </div> <!--End of container-->
+    <div class="col-md-12 green-panel">
+
+    </div>

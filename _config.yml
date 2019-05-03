@@ -1,0 +1,15 @@
+url: https://alexgt1.github.io/
+
+collections:
+  about:
+    output: true
+  programmes:
+    output: true
+  resources:
+    output: true
+  student-resources:
+    output: true
+  teacher-resources:
+    output: true
+  whanau-resources:
+    output: true
