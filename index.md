@@ -17,8 +17,14 @@ slide2_image: /img/2.jpg
 
 #slide3
 slide3_title:
-slide3_caption: 
+slide3_caption:
 slide3_image:
+
+#slide3
+slide4_title:
+slide4_caption:
+slide4_image:
+
 
 # image besides the main content on the right
 left_image: /img/3.jpg
