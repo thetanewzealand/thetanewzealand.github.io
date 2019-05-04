@@ -3,20 +3,21 @@ layout: default
 ---
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-fade carousel-inner">
+    {% if page.slide1_image %}
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/1.jpg" alt="First slide">
-
       <div class="carousel-caption d-none d-md-block">
-    <h2 class="carousel-title">{{ page.slide1_title }}</h2>
-    <p class="carousel-blurb">{{ page.slide1_caption }}</p>
-    {% if page.slide1_link %}
-    <a target="_blank" class="carousel-link" href="{{ page.slide1_link }}">{{ page.slide1_link_text }}</a>
-    {% endif %}
-  </div>
-
+        <h2 class="carousel-title">{{ page.slide1_title }}</h2>
+        <p class="carousel-blurb">{{ page.slide1_caption }}</p>
+        {% if page.slide1_link %}
+        <a target="_blank" class="carousel-link" href="{{ page.slide1_link }}">{{ page.slide1_link_text }}</a>
+        {% endif %}
+      </div>
+      {% endif %}
     </div>
+    {% if page.slide2_image %}
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="{{ page.slide2_image }}" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h2 class="carousel-title">{{ page.slide2_title }}</h2>
         <p class="carousel-blurb">{{ page.slide2_caption }}</p>
@@ -25,6 +26,20 @@ layout: default
         {% endif %}
       </div>
   </div>
+  {% endif %}
+
+  {% if page.slide3_image %}
+  <div class="carousel-item">
+    <img class="d-block w-100" src="{{ page.slide3_image }}" alt="Second slide">
+    <div class="carousel-caption d-none d-md-block">
+      <h2 class="carousel-title">{{ page.slide3_title }}</h2>
+      <p class="carousel-blurb">{{ page.slide3_caption }}</p>
+      {% if page.slide3_link %}
+      <a target="_blank" class="carousel-link" href="{{ page.slide3_link}}">{{ page.slide3_link_text}}</a>
+      {% endif %}
+    </div>
+</div>
+{% endif %}
 
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>

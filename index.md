@@ -8,13 +8,17 @@ slide1_title: Seen our show?
 slide1_caption:
 slide1_link_text: Take our Sexwise survey
 slide1_link: https://www.surveymonkey.com/r/97FFZJC
+slide1_image: /img/1.jpg
 
 #slide 2
 slide2_title: THETA promotes the development of <br/>healthy attitudes and behaviours.
 slide2_caption: Enabling young people to make informed lifestyle choices.
+slide2_image: /img/2.jpg
+
 #slide3
-slide3_title: this is slide 2
-slide3_caption: this is the second caption
+slide3_title:
+slide3_caption: 
+slide3_image:
 
 # image besides the main content on the right
 left_image: /img/3.jpg
