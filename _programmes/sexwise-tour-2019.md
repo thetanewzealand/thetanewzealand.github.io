@@ -8,6 +8,14 @@ button_title:
 button_link:
 
 panel_right_main_title: Course Information
+panel_right_heading1: GOAL
+panel_right_text:
+panel_right_heading2:
+panel_right_text2:
+panel_right_heading3:
+panel_right_text3:
+panel_right_heading4:
+panel_right_text4:
 
 permalink: sexwise-tour-2019
 ---

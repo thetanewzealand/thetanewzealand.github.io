@@ -7,13 +7,16 @@ button_title: visit our site
 button_link: http://www.sexwise.nz/
 permalink: sexwise
 
-#### Here is where you style the right column
+
 panel_right_main_title: Course Information
 panel_right_heading1: GOAL
 panel_right_text: To challenge and motivate rangatahi/youth to discuss, explore and reflect on behaviours that affect their health and that of others, with reference to current accurate information.
 panel_right_heading2: To provide theatre in education that
 panel_right_text2: Promotes healthy relationships.
-
+panel_right_heading3:
+panel_right_text3:
+panel_right_heading4:
+panel_right_text4:
 
 
 ### Below this line is where you add text to the main body of the page
