@@ -12,9 +12,7 @@ panel_right_main_title: Course Information
 permalink: sexwise-tour-2019-dhb
 ---
 
-
-Sexwise Tour 2019 Term 2 by DHB Sexwise Tour 2019 Term 2 by DHB Sexwise Tour 2019 Term 2 by DHB
-Whanganui
+Test<br><br>Sexwise Tour 2019 Term 2 by DHB Sexwise Tour 2019 Term 2 by DHB Sexwise Tour 2019 Term 2 by DHB Whanganui
 
 Monday 29th April, 9:00am
 
@@ -27,8 +25,6 @@ Tuesday 30th April, 9:05am and Wednesday 1st May, 8:40am
 **Whanganui High School**
 
 Purnell St, Wanganui
-
-
 
 **Hawke’s Bay**
 
@@ -62,8 +58,6 @@ Wairoa College
 
 Lucknow Street, Wairoa
 
-
-
 **Taranaki**
 
 Thursday 2nd and Friday 3rd May, 8:45am
@@ -71,8 +65,6 @@ Thursday 2nd and Friday 3rd May, 8:45am
 Stratford High School
 
 Swansea Rd, Stratford
-
-
 
 **Lakes**
 
@@ -118,8 +110,6 @@ Rotorua Boys High
 
 Pukuatua Street, Rotorua
 
-
-
 **Tairawhiti**
 
 Thursday 9th 8:40am and Friday 10th May, 8:50am
@@ -152,8 +142,6 @@ Te Waha O Rerekohu Area School
 
 3 Arawhena Street, Te Araroa
 
-
-
 **Waikato**
 
 Monday 13th May, 9:05am
@@ -162,7 +150,7 @@ Tokoroa High School
 
 Billah Street, Tokoroa
 
- Tuesday 14th May, 9:00am
+Tuesday 14th May, 9:00am
 
 Putaruru College
 
@@ -228,8 +216,6 @@ Fraser High School
 
 72 Ellicott Rd, Hamilton, Hamilton
 
-
-
 **Bay of Plenty**
 
 Monday 20th May, 10:00am
@@ -264,8 +250,6 @@ Whakatakapokai
 
 400 Weymouth Road, Manurewa
 
-
-
 **Auckland**
 
 Thursday 6th June, 9:45am
@@ -290,8 +274,7 @@ Monday 17th June, 9:00am
 
 Salvation Army Mt Wellington
 
-18 Allright Pl, Mount Wellington, Auckland
-09 905 1237
+18 Allright Pl, Mount Wellington, Auckland 09 905 1237
 
 Tuesday 18th June, 1:10pm
 
@@ -322,8 +305,6 @@ Friday 21st June, 8:45am
 Korowai Manaaki, Youth Justice Residence
 
 24 Kiwi Tamaki Rd, Wiri, Auckland
-
-
 
 **Northland**
 
