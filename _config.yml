@@ -13,3 +13,9 @@ collections:
     output: true
   whanau-resources:
     output: true
+  accordion-student-resources:
+    output: true
+  accordion-teacher-resources:
+    output: true
+  accordion-whanau-resources:
+    output: true
