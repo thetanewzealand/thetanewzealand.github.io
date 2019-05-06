@@ -795,6 +795,14 @@ margin: 0 auto;
     padding-top: 40px!important;
   }
 
+  .dropdown-menu{
+    background-color: #ffffff!important;
+  }
+
+  .dropdown-item{
+    border-bottom: none!important;
+  }
+
   .about-image{
     margin: 0 auto;
     text-align: center;
