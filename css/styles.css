@@ -703,9 +703,6 @@ margin: 0 auto;
 }
 
 
-.carousel-item{
-
-}
 
 /* ///// Main Carousel ////// */
 .carousel-caption {
@@ -827,17 +824,6 @@ margin: 0 auto;
 
   }
 
-
-
-  .footer-top{
-    text-align: center;
-    margin: 0 auto;
-    padding: 10px;
-  }
-
-  .footer-top .line-dec{
-    margin: 0 auto;
-  }
 
   h2{
       margin-top: 20px;
