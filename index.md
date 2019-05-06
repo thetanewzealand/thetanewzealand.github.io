@@ -1,5 +1,6 @@
 ---
 layout: homepage
+back_to_top: show
 slide1_title: Seen our show?
 slide1_caption:
 slide1_link_text: Take our Sexwise survey
