@@ -791,6 +791,10 @@ margin: 0 auto;
 /* ///////////////////////////////////////////////////// PHONES /////////////////////////////////////////*/
 @media only screen and (max-width: 767px) {
 
+  .logo{
+    padding-top: 40px;
+  }
+
   .about-image{
     margin: 0 auto;
     text-align: center;
