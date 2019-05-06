@@ -26,6 +26,8 @@
 
     <title>Resources for Teachers » Theta</title>
   </head>
+  <!-- Back to top button -->
+  
   <body>
 
 
@@ -466,7 +468,24 @@ The evaluation explored how well THETA’s Sexwise programme met the specificati
   });
   </script>
 
+<script type="text/javascript">
+var btn = $('#button');
 
+$(window).scroll(function() {
+if ($(window).scrollTop() > 300) {
+  btn.addClass('show');
+} else {
+  btn.removeClass('show');
+}
+});
+
+btn.on('click', function(e) {
+e.preventDefault();
+$('html, body').animate({scrollTop:0}, '300');
+});
+
+
+</script>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
