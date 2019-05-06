@@ -1,5 +1,6 @@
 ---
 layout: hero-two-panel
+back_to_top: show
 page_title: The best thing
 description: Students and facilitators explore problems and issues, particularly in communication and connectedness.
 img_path: /img/the_best_thing.jpg

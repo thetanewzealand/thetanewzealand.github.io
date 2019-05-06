@@ -1,5 +1,6 @@
 ---
 layout: teacher-resources
+back_to_top: show
 
 # This is the page name that will appear in the tab at the top of the browser
 page_title: Resources for Teachers

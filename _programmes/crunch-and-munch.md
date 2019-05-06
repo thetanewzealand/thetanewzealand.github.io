@@ -1,5 +1,6 @@
 ---
 layout: hero-two-panel
+back_to_top: show
 page_title: Crunch & Munch
 description: >-
   A story teller promotes fruit and vegetables as a way to stay healthy and

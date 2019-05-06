@@ -1,6 +1,7 @@
 ---
 layout: hero-two-panel
 page_title: Sexwise
+back_to_top: show
 description: A theatre in education programme, consisting of a theatre performance and an interactive workshop.
 img_path: /img/sex_wise.jpg
 button_title: visit our site

@@ -1,5 +1,6 @@
 ---
 layout: hero-two-panel
+back_to_top: show
 page_title: Sexwise Tour 2019 Term 2 by DHB
 description: Sexwise Tour 2019 Term 2 by DHB.
 img_path: /img/1.jpg

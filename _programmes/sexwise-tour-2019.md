@@ -1,5 +1,6 @@
 ---
 layout: hero-two-panel
+back_to_top: show
 page_title: Sexwise Tour 2019 by date
 description: Please contact THETA for further details if you wish to attend a delivery.
 img_path: /img/2.jpg

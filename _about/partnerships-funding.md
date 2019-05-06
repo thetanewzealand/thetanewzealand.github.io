@@ -1,5 +1,6 @@
 ---
 layout: hero
+back_to_top: show
 page_title: Partnerships & funding
 
 permalink: partnerships-and-funding

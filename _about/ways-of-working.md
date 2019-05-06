@@ -1,5 +1,6 @@
 ---
 layout: hero
+back_to_top: show
 page_title: Ways of Working
 
 permalink: ways-of-working

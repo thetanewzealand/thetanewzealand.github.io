@@ -1,6 +1,7 @@
 ---
 layout: hero
 page_title: Actors
+back_to_top: show
 
 permalink: actors
 ### Main content goes below this line
