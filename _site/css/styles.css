@@ -557,6 +557,13 @@ padding: 20px;
     color: #000000;
   }
 
+  .dropdown-menu{
+    background-color: #ffffff;
+  }
+
+  .dropdown-item{
+    color: #000000;
+  }
 }
 
 @media (max-width: 1000px) {
