@@ -619,6 +619,10 @@ padding: 20px;
     width: 70%;
   }
 
+  .back-to-top{
+    display: none!important;
+  }
+
 }
 
 
