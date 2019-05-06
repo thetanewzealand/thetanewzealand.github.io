@@ -585,11 +585,15 @@ padding: 20px;
 
   .navbar-brand{
     padding-top: 30px;
+
   }
+
 
   .hide-row{
     display:none;
   }
+
+
 }
 
 
@@ -609,6 +613,12 @@ padding: 20px;
       padding-top: 60px!important;
 
   }
+
+  .navbar-brand img{
+    height: 70%;
+    width: 70%;
+  }
+
 }
 
 
