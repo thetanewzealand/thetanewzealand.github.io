@@ -29,7 +29,9 @@ layout: hero
 
 <section>
   <div class="container">
+    {% if page.resource_name %}
     <h1>Additional Information</h1>
+    {% endif %}
     <br>
     <div id="accordion">
       {% for page in site.accordion-teacher-resources %}
@@ -44,7 +46,7 @@ layout: hero
 
         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
           <div class="card-body">
-              <p>{{ content }}</p>
+              {{ page.content }}
           </div>
         </div>
     </div>
