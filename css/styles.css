@@ -789,7 +789,7 @@ margin: 0 auto;
 @media only screen and (max-width: 767px) {
 
   .logo{
-    padding-top: 40px!important;
+    margin-top: 40px!important;
   }
 
   .dropdown-menu{
