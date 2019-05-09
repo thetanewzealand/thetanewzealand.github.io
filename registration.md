@@ -1,5 +1,5 @@
 ---
-layout: hero
+layout: registration
 page_title: Registration
 back_to_top: show
 
