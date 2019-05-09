@@ -34,6 +34,8 @@ right_hand_blurb: >-
   2019.
 left_hand_button_text: about us
 right_hand_button_text: register now
+
+permalink: home
 ---
 
 **Ma te whakatau, - ka mohio,**
