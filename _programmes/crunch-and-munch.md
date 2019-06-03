@@ -106,8 +106,11 @@ THETA recommends that students will be served best by the use ofCrunch and Munch
 Other school health education programmes which are relevant to those from THETA are sexual health; tobacco; alcohol and other drug issues; self esteem; relationship building; assertiveness skill development.
 {: .present-before-paste}
 
-THETA is a member of the New Zealand Health Teachers’ Association; Health Promoting Schools; NZAAHD
+THETA is a member of the New Zealand Health Teachers’ Association; Health Promoting Schools; NZAAHD.
 {: .present-before-paste}
 
 [Youtube video](https://youtu.be/yA7jbHcCZTs){: target="_blank"}
+{: .present-before-paste}
+
+&nbsp;
 {: .present-before-paste}
