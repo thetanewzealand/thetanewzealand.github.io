@@ -100,7 +100,7 @@ THETA supports the framework of the “Health and Physical Education Curriculum�
 Recognising best practice models as well as the holistic framework of the Curriculum, THETA aims to integrate its programmes into schools’ existing health education strategies. Much of the effectiveness of THETA’s programmes is lost if they are implemented without this integration.
 {: .present-before-paste}
 
-THETA recommends that students will be served best by the use ofCrunch and Munch as only one resource alongside others in the health education programme they are currently participating in.
+THETA recommends that students will be served best by the use of Crunch and Munch as only one resource alongside others in the health education programme they are currently participating in.
 {: .present-before-paste}
 
 Other school health education programmes which are relevant to those from THETA are sexual health; tobacco; alcohol and other drug issues; self esteem; relationship building; assertiveness skill development.
